@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BaseProject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="check_internet">please check your internet_connection</string>
+    <string name="Back">Back</string>
+    <string name="facebook_app_id">2303282483064188</string>
+    <string name="fb_login_protocol_scheme">fb2303282483064188</string>
+    <string name="server_client_id">1034736543895-4heu5j2d9rgsq6r8jdhkvcb59gocfsk1.apps.googleusercontent.com</string>
+
+
+
+</resources>
